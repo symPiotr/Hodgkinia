@@ -19,16 +19,16 @@ The file, an Excel spreadsheet, contains three worksheets representing Supplemen
    S4. The results of annotation of individual *Hodgkinia* contigs
    S5. The results of annotation of *Hodgkinia* contigs from different cicadas
 
-### [x] [2. *Hodgkinia* annotation tools](Annotation/Annotation.md)
+### [ ] [2. *Hodgkinia* annotation tools](Annotation/Annotation.md)
 The custom Hodgkinia annotation script was originally developed by Piotr Łukasik and used for three papers that presented the cicada symbionts and their mitochondrial genomes (refs). It was later developed as "symcap" by Diego Castillo Franco, for the purpose of annotating planthopper symbionts. Here, we provide the version of the script that was used for the annotation of the current Hodgkinia dataset, alongside reference files, input and output files, and a script for processing data tables.  
 
-### [ ] 3. Visualization of *Hodgkinia* metagenomic assemblies
+### [ ] [3. Visualization of *Hodgkinia* metagenomic assemblies](Assembly_vis/Assembly_vis.md)
 Plotting metagenomic contigs in coverage vs. GC contents space, with size and taxonomic assignment indicated, popularized by the [Blobology tool](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3843372/) can be a powerful way of visualizing microbes present in the sample. We reasoned that this approach could be just as helpful for visualizing *Hodgkinia* genomic contigs present in a cicada specimen, with color representing coding density - and present a Python and Processing scripts that were used to make Figure 3 in the manuscript.
 
-### [ ] 4. Visualization of *Hodgkinia* gene contents table
+### [ ] [4. Visualization of *Hodgkinia* gene contents table](Table_vis/Table_vis.md)
 This is a simple Processing script for reading input data tables provided by the annotation script, and outputting a PDF table that was used for Figure 4 in the manuscript.  
 
-### [ ] 5. Visualization of *Hodgkinia* intra-genomic variability
+### [ ] [5. Visualization of *Hodgkinia* intra-genomic variability](Intra_genome_variability/Variability.md)
 Within even simple Hodgkinia genomes, we observed substantial amounts of variability, including alternatively mapping reads and nucleotide polymorphisms. Here, we present a workflow for the visualization of these patterns (used for Figure 5 in the manuscript).
   
   
