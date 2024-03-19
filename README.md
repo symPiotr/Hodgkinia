@@ -19,7 +19,7 @@ The file, an Excel spreadsheet, contains three worksheets representing Supplemen
    S4. The results of annotation of individual *Hodgkinia* contigs
    S5. The results of annotation of *Hodgkinia* contigs from different cicadas
 
-### [ ] 2. *Hodgkinia* annotation tools
+### [x] [2. *Hodgkinia* annotation tools](Annotation/Annotation.md)
 The custom Hodgkinia annotation script was originally developed by Piotr Łukasik and used for three papers that presented the cicada symbionts and their mitochondrial genomes (refs). It was later developed as "symcap" by Diego Castillo Franco, for the purpose of annotating planthopper symbionts. Here, we provide the version of the script that was used for the annotation of the current Hodgkinia dataset, alongside reference files, input and output files, and a script for processing data tables.  
 
 ### [ ] 3. Visualization of *Hodgkinia* metagenomic assemblies
